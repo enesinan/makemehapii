@@ -13,6 +13,7 @@ hapi usecase examples
 
 # What's hapi ?
 
-
+The Simple, Secure Framework
+Developers Trust
 
   
