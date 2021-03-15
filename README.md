@@ -1,5 +1,5 @@
 # makemehapii
- this repository contains hapi usecase examples
+ This repository contains hapi usecase examples
 
 
 
