@@ -16,4 +16,4 @@ hapi usecase examples
 The Simple, Secure Framework
 Developers Trust
 
-  
+# What can you do with hapi.dev ?
