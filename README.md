@@ -19,3 +19,7 @@ Developers Trust
 # What can you do with hapi.dev ?
 
  Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality - your code, your way
+
+
+
+# LICENSE
