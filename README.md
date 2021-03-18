@@ -30,6 +30,8 @@ When you npm install @hapi/hapi, every single line of code you get has been veri
 
 # How do we keep hapi secure?
 
+* End-to-end Code Hygiene — hapi requires the most secure settings to manage, control, and distribute code, including 2FA for all contributors.
+* Secure Defaults, Updated Regularly — every hapi component comes with the most secure defaults out-of-the-box. Along with protecting server load with payload limits and request timeouts, hapi blocks error messages that could leak information or echo back exploits.
 
 # LICENSE
 
