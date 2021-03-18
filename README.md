@@ -22,6 +22,10 @@ Developers Trust
 
 # About Security
 
+83% of developers* are concerned with the security of open-source code. You’re probably among that 83%. </br>
+* npm Inc. 2019 Trends in JavaScript report
+
+
 # LICENSE
 
 
