@@ -34,6 +34,8 @@ When you npm install @hapi/hapi, every single line of code you get has been veri
 * Secure Defaults, Updated Regularly — every hapi component comes with the most secure defaults out-of-the-box. Along with protecting server load with payload limits and request timeouts, hapi blocks error messages that could leak information or echo back exploits.
 * Integrated Authorization and Authentication Architecture — the most comprehensive authorization and authentication API available in a Node framework.
 * Advanced Features — with encrypted and signed cookies, secret or key rotation, and HTTP security headers, there are no excuses for building insecure applications.
+* Reliable, Predictable Ownership – when something goes wrong, you know who to contact. Security updates are handled under a strict, well-defined protocol.
+* 
 
 # LICENSE
 
