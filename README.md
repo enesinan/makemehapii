@@ -36,7 +36,7 @@ When you npm install @hapi/hapi, every single line of code you get has been veri
 * Advanced Features — with encrypted and signed cookies, secret or key rotation, and HTTP security headers, there are no excuses for building insecure applications.
 * Reliable, Predictable Ownership – when something goes wrong, you know who to contact. Security updates are handled under a strict, well-defined protocol.
 * Rich ecosystem – hapi’s extensive set of official plugins means no more blindly trusting some middleware you found for critical functionality just because it has a high count on npm.
-* 
+* In-house Security Expertise – created by Eran Hammer, the author of the OAuth specifications and other identity protocols.
 
 # LICENSE
 
