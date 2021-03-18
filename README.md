@@ -28,6 +28,8 @@ Developers Trust
 You’ve got nothing to worry about with hapi.
 When you npm install @hapi/hapi, every single line of code you get has been verified. You never have to worry about some deep dependency being poorly maintained (or handed over to someone sketchy). hapi is the only leading node framework without any external code dependencies. None.
 
+# How do we keep hapi secure?
+
 
 # LICENSE
 
