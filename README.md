@@ -1,5 +1,5 @@
 # makemehapii
- This repository contains hapi usecase examples
+ This repository contains hapi usecase examples.
 
 
 
@@ -20,7 +20,7 @@ Developers Trust
 
  Build powerful, scalable applications, with minimal overhead and full out-of-the-box functionality - your code, your way
 
-
+# About Security
 
 # LICENSE
 
